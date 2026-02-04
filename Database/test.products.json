@@ -1,0 +1,608 @@
+[{
+  "_id": {
+    "$oid": "679e24a85cc1203aab941c1e"
+  },
+  "id": 1,
+  "name": "African Print Off-shoulder Puffy Sleeve Dress",
+  "image": "http://localhost:4000/images/product_1738417320443.jpg",
+  "category": "women",
+  "new_price": 5000,
+  "old_price": 7000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:42:00.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e24d85cc1203aab941c21"
+  },
+  "id": 2,
+  "name": "Classy Dinner Dress",
+  "image": "http://localhost:4000/images/product_1738417368497.jpg",
+  "category": "women",
+  "new_price": 3500,
+  "old_price": 4500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:42:48.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e24f55cc1203aab941c24"
+  },
+  "id": 3,
+  "name": "Corporate Blazer Suit",
+  "image": "http://localhost:4000/images/product_1738417396948.jpg",
+  "category": "women",
+  "new_price": 8000,
+  "old_price": 9500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:43:17.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25105cc1203aab941c27"
+  },
+  "id": 4,
+  "name": "Long Denim Skirt",
+  "image": "http://localhost:4000/images/product_1738417424503.jpg",
+  "category": "women",
+  "new_price": 2000,
+  "old_price": 3000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:43:44.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25275cc1203aab941c2a"
+  },
+  "id": 5,
+  "name": "Black Lapel Long Sleeve Two Piece Suit",
+  "image": "http://localhost:4000/images/product_1738417447084.jpg",
+  "category": "women",
+  "new_price": 4000,
+  "old_price": 5000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:44:07.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e254b5cc1203aab941c2d"
+  },
+  "id": 6,
+  "name": "Curated Denim Shorts",
+  "image": "http://localhost:4000/images/product_1738417483215.jpg",
+  "category": "women",
+  "new_price": 1500,
+  "old_price": 2000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:44:43.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25645cc1203aab941c30"
+  },
+  "id": 7,
+  "name": "Trendy Cargo Pants",
+  "image": "http://localhost:4000/images/product_1738417508582.jpg",
+  "category": "women",
+  "new_price": 3000,
+  "old_price": 3500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:45:08.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25785cc1203aab941c33"
+  },
+  "id": 8,
+  "name": "Black Maxi Dress",
+  "image": "http://localhost:4000/images/product_1738417528582.jpg",
+  "category": "women",
+  "new_price": 3000,
+  "old_price": 3500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:45:28.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25935cc1203aab941c36"
+  },
+  "id": 9,
+  "name": "Zip-Back Ruched Bodycon Dress",
+  "image": "http://localhost:4000/images/product_1738417555792.jpg",
+  "category": "women",
+  "new_price": 4500,
+  "old_price": 5000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:45:55.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25ae5cc1203aab941c39"
+  },
+  "id": 10,
+  "name": "Women Loose CasualRuffle Edge Solid Dress",
+  "image": "http://localhost:4000/images/product_1738417582136.jpg",
+  "category": "women",
+  "new_price": 2500,
+  "old_price": 3500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:46:22.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25d05cc1203aab941c3c"
+  },
+  "id": 11,
+  "name": "V-neck Loose Printed Long Jumpsuit",
+  "image": "http://localhost:4000/images/product_1738417616677.jpg",
+  "category": "women",
+  "new_price": 4000,
+  "old_price": 3500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:46:56.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e25e85cc1203aab941c3f"
+  },
+  "id": 12,
+  "name": "Wide Legged Casual Pants",
+  "image": "http://localhost:4000/images/product_1738417640171.jpg",
+  "category": "women",
+  "new_price": 2000,
+  "old_price": 2500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:47:20.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e260d5cc1203aab941c42"
+  },
+  "id": 13,
+  "name": "Men's African Print Button-Up Shirt ",
+  "image": "http://localhost:4000/images/product_1738417677078.jpg",
+  "category": "men",
+  "new_price": 1500,
+  "old_price": 2000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:47:57.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e262a5cc1203aab941c45"
+  },
+  "id": 14,
+  "name": "Short Sleeve Shirt and Pants",
+  "image": "http://localhost:4000/images/product_1738417706086.jpg",
+  "category": "men",
+  "new_price": 5000,
+  "old_price": 6000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:48:26.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e26455cc1203aab941c48"
+  },
+  "id": 15,
+  "name": "Blue College Jacket",
+  "image": "http://localhost:4000/images/product_1738417732816.jpg",
+  "category": "men",
+  "new_price": 2000,
+  "old_price": 3000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:48:53.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e26615cc1203aab941c4b"
+  },
+  "id": 16,
+  "name": "Mens Short Sleeve Polo Shirt with Contrast Color Zipper Lapel",
+  "image": "http://localhost:4000/images/product_1738417761034.jpg",
+  "category": "men",
+  "new_price": 4500,
+  "old_price": 5000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:49:21.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e26875cc1203aab941c4e"
+  },
+  "id": 17,
+  "name": "Black Oversize Hoodie And Cargo Pants",
+  "image": "http://localhost:4000/images/product_1738417799575.jpg",
+  "category": "men",
+  "new_price": 6000,
+  "old_price": 7000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:49:59.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e26b35cc1203aab941c51"
+  },
+  "id": 18,
+  "name": "Slim Fit Blue Suit",
+  "image": "http://localhost:4000/images/product_1738417843308.jpg",
+  "category": "men",
+  "new_price": 30000,
+  "old_price": 35000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:50:43.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e26cf5cc1203aab941c54"
+  },
+  "id": 19,
+  "name": "Loose Fit Men's Solid Color V-Neck Shirt & Pants Set",
+  "image": "http://localhost:4000/images/product_1738417871397.jpg",
+  "category": "men",
+  "new_price": 4000,
+  "old_price": 4500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:51:11.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e26ed5cc1203aab941c57"
+  },
+  "id": 20,
+  "name": "Grooms Men Suit",
+  "image": "http://localhost:4000/images/product_1738417900340.jpg",
+  "category": "men",
+  "new_price": 8000,
+  "old_price": 9000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:51:41.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e270b5cc1203aab941c5a"
+  },
+  "id": 21,
+  "name": "Men's 2 Piece Tuxedo",
+  "image": "http://localhost:4000/images/product_1738417930932.jpg",
+  "category": "men",
+  "new_price": 30000,
+  "old_price": 35000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:52:11.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e272d5cc1203aab941c5d"
+  },
+  "id": 22,
+  "name": "Men's Move Up Plaid Flannel Shirt",
+  "image": "http://localhost:4000/images/product_1738417964718.jpg",
+  "category": "men",
+  "new_price": 2500,
+  "old_price": 3000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:52:45.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e274a5cc1203aab941c60"
+  },
+  "id": 23,
+  "name": "Men's Fashion Outfit Cargo Pants\"",
+  "image": "http://localhost:4000/images/product_1738417994115.jpg",
+  "category": "men",
+  "new_price": 4000,
+  "old_price": 4500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:53:14.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e278f5cc1203aab941c66"
+  },
+  "id": 24,
+  "name": "Lennie Overalls in Black",
+  "image": "http://localhost:4000/images/product_1738418063152.jpg",
+  "category": "men",
+  "new_price": 3000,
+  "old_price": 4000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:54:23.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e27b65cc1203aab941c6a"
+  },
+  "id": 25,
+  "name": "Toddler Dungarees",
+  "image": "http://localhost:4000/images/product_1738418102620.jpg",
+  "category": "kids",
+  "new_price": 1500,
+  "old_price": 2000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:55:02.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e27f05cc1203aab941c70"
+  },
+  "id": 26,
+  "name": "Boys Black Hooded Sweater",
+  "image": "http://localhost:4000/images/product_1738418160324.png",
+  "category": "kids",
+  "new_price": 1000,
+  "old_price": 2000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:56:00.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e280e5cc1203aab941c73"
+  },
+  "id": 27,
+  "name": "Girls Black Top And Pants",
+  "image": "http://localhost:4000/images/product_1738418189237.jpg",
+  "category": "kids",
+  "new_price": 3000,
+  "old_price": 3500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:56:30.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e28245cc1203aab941c76"
+  },
+  "id": 28,
+  "name": "African Print Girl Dress",
+  "image": "http://localhost:4000/images/product_1738418212070.jpg",
+  "category": "kids",
+  "new_price": 3000,
+  "old_price": 3500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:56:52.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e283d5cc1203aab941c79"
+  },
+  "id": 29,
+  "name": "Toddler Black Pants",
+  "image": "http://localhost:4000/images/product_1738418237660.jpg",
+  "category": "kids",
+  "new_price": 1000,
+  "old_price": 1500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:57:17.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e28595cc1203aab941c7c"
+  },
+  "id": 30,
+  "name": "Boys Nike Grey Little kids Fleece Tracksuit Set",
+  "image": "http://localhost:4000/images/product_1738418264470.jpg",
+  "category": "kids",
+  "new_price": 2800,
+  "old_price": 2500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:57:45.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e28735cc1203aab941c7f"
+  },
+  "id": 31,
+  "name": "Trendy African Wear for Boys",
+  "image": "http://localhost:4000/images/product_1738418290896.jpg",
+  "category": "kids",
+  "new_price": 3000,
+  "old_price": 3500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:58:11.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e288c5cc1203aab941c82"
+  },
+  "id": 32,
+  "name": "Jungen Denim-Overall",
+  "image": "http://localhost:4000/images/product_1738418315923.jpg",
+  "category": "kids",
+  "new_price": 1500,
+  "old_price": 2000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:58:36.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e28ae5cc1203aab941c85"
+  },
+  "id": 33,
+  "name": "kids' Mini 3 Piece Skirt ",
+  "image": "http://localhost:4000/images/product_1738418349477.jpg",
+  "category": "kids",
+  "new_price": 3000,
+  "old_price": 4000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:59:10.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e28cb5cc1203aab941c88"
+  },
+  "id": 34,
+  "name": "Shark Boy Black Joggers",
+  "image": "http://localhost:4000/images/product_1738418379471.jpg",
+  "category": "kids",
+  "new_price": 2000,
+  "old_price": 2500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:59:39.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e29045cc1203aab941c8b"
+  },
+  "id": 35,
+  "name": "Ankara Shirt And Pants Set",
+  "image": "http://localhost:4000/images/product_1738418436434.jpg",
+  "category": "kids",
+  "new_price": 3500,
+  "old_price": 4000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T14:00:36.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e29245cc1203aab941c8e"
+  },
+  "id": 36,
+  "name": "Suit for Boys Fashion",
+  "image": "http://localhost:4000/images/product_1738418467677.jpg",
+  "category": "kids",
+  "new_price": 5000,
+  "old_price": 6500,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T14:01:08.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680b6954873aa94a685a9147"
+  },
+  "id": 1,
+  "name": "African Print Off-shoulder Puffy Sleeve Dress",
+  "image": "http://localhost:4000/images/product_1738417320443.jpg",
+  "category": "women",
+  "new_price": 5000,
+  "old_price": 7000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:42:00.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680b6ba3873aa94a685a9149"
+  },
+  "id": 21,
+  "name": "Men's 2 Piece Tuxedo",
+  "image": "http://localhost:4000/images/product_1738417930932.jpg",
+  "category": "men",
+  "new_price": 30000,
+  "old_price": 35000,
+  "available": true,
+  "date": {
+    "$date": "2025-02-01T13:52:11.181Z"
+  },
+  "__v": 0
+}]
